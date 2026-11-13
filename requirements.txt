@@ -1,0 +1,13 @@
+
+numpy
+pandas
+scikit-learn
+scikit-image
+opencv-python
+matplotlib
+seaborn
+Pillow
+joblib
+streamlit
+jupyter
+ipykernel
