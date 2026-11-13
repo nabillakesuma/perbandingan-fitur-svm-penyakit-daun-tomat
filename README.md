@@ -50,7 +50,6 @@ Hasil tersebut merupakan hasil evaluasi pada data pengujian penelitian.
 - `notebooks/`: notebook eksperimen dan aplikasi.
 - `scripts/`: script Python pendukung penelitian.
 - `artifacts/`: dokumentasi model dan komponen pendukung.
-- `verification/`: dokumentasi hasil pengujian aplikasi.
 - `docs/`: dokumentasi tambahan penelitian.
 
 ## Model SVM
@@ -59,7 +58,7 @@ File model M1, M2, dan M3 tidak disimpan langsung di GitHub karena ukuran file.
 
 Model dapat diunduh melalui Google Drive:
 
-**[Unduh Model SVM M1, M2, dan M3](MASUKKAN_LINK_GOOGLE_DRIVE)**
+**[Unduh Model SVM M1, M2, dan M3](https://drive.google.com/drive/folders/1pB1SZkYElvTLcV1N1vtCBkMq2RMZRzbk?usp=sharing)**
 
 Pastikan pengguna memiliki akses untuk mengunduh ketiga file model tersebut.
 
