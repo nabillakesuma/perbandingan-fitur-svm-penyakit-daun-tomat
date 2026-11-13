@@ -10,3 +10,7 @@ Terdapat tiga konfigurasi model:
 - M3: SVM + Raw Pixel + GLCM + HOG + LBP
 
 Model dan komponen pendukung digunakan oleh aplikasi untuk melakukan prediksi terhadap citra daun tomat.
+
+File terdapat dalam drive berikut: 
+https://drive.google.com/drive/folders/1pB1SZkYElvTLcV1N1vtCBkMq2RMZRzbk?usp=sharing
+
